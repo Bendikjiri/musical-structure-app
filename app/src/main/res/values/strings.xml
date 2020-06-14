@@ -4,4 +4,24 @@
     <string name="all_songs">ALL SONGS</string>
     <string name="play">Play</string>
     <string name="stop">Stop</string>
+    <string name="song1">Savage</string>
+    <string name="artist1">Megan Thee Stallion Featuring Beyonce</string>
+    <string name="song2">Blinding Lights</string>
+    <string name="song3">Say So</string>
+    <string name="song4">Rain On Me</string>
+    <string name="song5">Toosie Slide</string>
+    <string name="song6">Don\'t Start Now</string>
+    <string name="song7">Intentions</string>
+    <string name="song8">The Box</string>
+    <string name="song9">Roses</string>
+    <string name="artist2">The Weeknd</string>
+    <string name="artist3">Doja Cat Featuring Nicki Minaj</string>
+    <string name="artist4"><![CDATA[Lady Gaga & Ariana Grande]]></string>
+    <string name="artist5">Drake</string>
+    <string name="artist6">Dua Lipa</string>
+    <string name="artist7">Justin Bieber Featuring Quavo</string>
+    <string name="artist8">Roddy Ricch</string>
+    <string name="artist9">SAINt JHN</string>
+    <string name="song10">Rockstar</string>
+    <string name="artist10">DaBaby Featuring Roddy Ricch</string>
 </resources>

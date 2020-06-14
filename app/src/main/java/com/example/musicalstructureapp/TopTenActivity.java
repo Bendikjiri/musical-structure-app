@@ -15,16 +15,16 @@ public class TopTenActivity extends AppCompatActivity {
         setContentView(R.layout.song_list);
 
         ArrayList<Song> songList = new ArrayList<Song>();
-        songList.add(new Song("Rockstar", "DaBaby Featuring Roddy Ricch"));
-        songList.add(new Song("Savage", "Megan Thee Stallion Featuring Beyonce"));
-        songList.add(new Song("Blinding Lights", "The Weeknd"));
-        songList.add(new Song("Say So", "Doja Cat Featuring Nicki Minaj"));
-        songList.add(new Song("Rain On Me", "Lady Gaga & Ariana Grande"));
-        songList.add(new Song("Toosie Slide", "Drake"));
-        songList.add(new Song("Don't Start Now", "Dua Lipa"));
-        songList.add(new Song("Intentions", "Justin Bieber Featuring Quavo"));
-        songList.add(new Song("The Box", "Roddy Ricch"));
-        songList.add(new Song("Roses", "SAINt JHN"));
+        songList.add(new Song(getString(R.string.song1), getString(R.string.artist1)));
+        songList.add(new Song(getString(R.string.song2), getString(R.string.artist2)));
+        songList.add(new Song(getString(R.string.song3), getString(R.string.artist3)));
+        songList.add(new Song(getString(R.string.song4), getString(R.string.artist4)));
+        songList.add(new Song(getString(R.string.song5), getString(R.string.artist5)));
+        songList.add(new Song(getString(R.string.song6), getString(R.string.artist6)));
+        songList.add(new Song(getString(R.string.song7), getString(R.string.artist7)));
+        songList.add(new Song(getString(R.string.song8), getString(R.string.artist8)));
+        songList.add(new Song(getString(R.string.song9), getString(R.string.artist9)));
+        songList.add(new Song(getString(R.string.song10), getString(R.string.artist10)));
 
         SongAdapter adapter= new SongAdapter(this, songList);
 
