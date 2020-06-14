@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="top_10">TOP 10!</string>
+    <string name="all_songs">ALL SONGS</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+</resources>
